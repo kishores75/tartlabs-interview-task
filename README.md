@@ -36,3 +36,15 @@
 ## Starting Laravel development server: http://127.0.0.1:8000
 
 3. Copy this http url then paste in browser our project will run and display the login page
+
+Login Credentials for admin and user:
+
+1. Admin Credentials:
+
+email - admin@gmail.com 
+password - admin
+
+2. User Credentials:
+
+email - balaji@gmail.com
+password - balaji
